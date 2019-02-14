@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/shutter.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Shutter
+Name=Shutter
+Comment[en_US]=Shutter happy!!!
+Comment=Shutter happy!!!

